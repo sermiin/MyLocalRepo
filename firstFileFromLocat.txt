@@ -1,0 +1,5 @@
+this is a file from the localhost
+i added more lines after asking git to track the changes
+with:
+
+git add firstFileFromLocat.txt
